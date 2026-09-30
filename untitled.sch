@@ -10547,7 +10547,7 @@ http://www.zetex.com&lt;p&gt;
 <part name="P+2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+12V" device=""/>
 <part name="P+3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+12V" device=""/>
 <part name="SUPPLY" library="con-jst-custom" deviceset="?2B-ZR" device="2.5"/>
-<part name="FAN" library="con-jst-custom" deviceset="?4B-ZR" device="2.5"/>
+<part name="FAN" library="con-jst-custom" deviceset="?4B-ZR" device="B" package3d_urn="urn:adsk.eagle:package:7642/1" value="B4B-ZR"/>
 <part name="Q1" library="zetex" library_urn="urn:adsk.eagle:library:418" deviceset="NMOSSOT23" device="" package3d_urn="urn:adsk.eagle:package:30981/1"/>
 <part name="GND5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 </parts>
