@@ -1,0 +1,6 @@
+*.s#*
+*.l#*
+*.b#*
+CAMOutputs/
+inalda_*
+.DS_Store
